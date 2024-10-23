@@ -1,6 +1,6 @@
-# Design Patterns in Java
+# Design Pattern
 
-Welcome to the **Design Patterns in Java** repository! This repository contains examples of common design patterns implemented in Java. Design patterns are proven solutions to recurring design problems in software development, and they help improve code readability, maintainability, and scalability.
+Welcome to the **Design Patterns** repository! This repository contains examples of common design patterns implemented in Java. Design patterns are proven solutions to recurring design problems in software development, and they help improve code readability, maintainability, and scalability.
 
 ## Introduction
 Design patterns are categorized into three main types:
